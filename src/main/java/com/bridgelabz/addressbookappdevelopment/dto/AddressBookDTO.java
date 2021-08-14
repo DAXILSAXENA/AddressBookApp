@@ -6,7 +6,7 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class AddressBookDTO {
-
+ 
     private String name;
     private String address;
     private String email;
